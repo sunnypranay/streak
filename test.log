@@ -14,3 +14,7 @@ fatal: not a git repository (or any of the parent directories): .git
  1 file changed, 1 insertion(+), 1 deletion(-)
 To github.com:sunnypranay/streak.git
    5b631f0..cf4f399  master -> master
+[master 238a960] date
+ 2 files changed, 5 insertions(+), 1 deletion(-)
+To github.com:sunnypranay/streak.git
+   cf4f399..238a960  master -> master
