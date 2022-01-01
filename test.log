@@ -1,0 +1,19 @@
+[master 577f5cf] date
+ Committer: Ubuntu <ubuntu@ip-172-31-8-119.us-west-2.compute.internal>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 2 insertions(+), 34 deletions(-)
+ create mode 100644 .script.sh.swp
+ rewrite test.log (100%)
+To github.com:sunnypranay/streak.git
+   99a732a..577f5cf  master -> master
