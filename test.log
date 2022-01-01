@@ -10,3 +10,7 @@ fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
 fatal: not a git repository (or any of the parent directories): .git
+[master cf4f399] date
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+To github.com:sunnypranay/streak.git
+   5b631f0..cf4f399  master -> master
