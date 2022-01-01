@@ -1,0 +1,1 @@
+* * * * * /home/pranay/projects/streak/script.sh >> /home/pranay/projects/streak/test.log 2>&1
