@@ -1,6 +1,4 @@
 #!/bin/bash
-cd "/home/ubuntu/projects/streak/"
-date > date.txt
-git add .
-git commit -m "date"
-git push origin master
+echo "Welcome to Vitux"
+ls
+echo "this is the whole list of dir"
