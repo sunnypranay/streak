@@ -1,1 +1,1 @@
-0 */2 * * * /home/ubuntu/projects/streak/script.sh >> /home/ubuntu/projects/streak/test.log 2>&1
+0 */2 * * * /home/titan/Desktop/Projects/streak/script.sh >> /home/titan/Desktop/Projects/streak/test.log 2>&1
