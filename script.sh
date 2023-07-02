@@ -1,5 +1,5 @@
 #!/bin/bash
-cd "/home/titan/Desktop/Projects/streak/"
+cd "/home/titan/Desktop/projects/streak"
 date > date.txt
 git add .
 git commit -m "date"
